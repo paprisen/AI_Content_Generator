@@ -1,19 +1,10 @@
-Machine Learning Intern
+AI Content Writer
 
 Responsibilities:
-
-* Develop and test machine learning models
-* Perform data preprocessing and feature engineering
-* Analyze datasets and generate insights
-* Assist in AI project development
-* Document model performance and results
+- Generate social media captions
+- Research trending topics
 
 Skills:
+- Content Writing
+- Communication skill
 
-* Python
-* Machine Learning
-* Data Analysis
-* Pandas
-* NumPy
-* Scikit-learn
-* Problem Solving
