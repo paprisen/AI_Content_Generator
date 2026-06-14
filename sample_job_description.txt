@@ -1,0 +1,19 @@
+Machine Learning Intern
+
+Responsibilities:
+
+* Develop and test machine learning models
+* Perform data preprocessing and feature engineering
+* Analyze datasets and generate insights
+* Assist in AI project development
+* Document model performance and results
+
+Skills:
+
+* Python
+* Machine Learning
+* Data Analysis
+* Pandas
+* NumPy
+* Scikit-learn
+* Problem Solving
